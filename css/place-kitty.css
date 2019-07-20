@@ -21,14 +21,14 @@
   left: 319px;
 }
 
-.ball + .img {
+#ball + #img {
   position: absolute;
   z-index: 4;
   top: 260px;
   left: 455px;
 }
 
-#kitty-5 {
+kitty-5 {
   position: absolute;
   z-index: 3;
   top: 217px;
